@@ -45,7 +45,6 @@
     <string name="debug_version_fmt">Version: <xliff:g id="version">%s</xliff:g></string>
     <string name="enterBarcodeInstructions">Füge die Kundennummer ein, anschließend wähle die korrekte Barcodeart aus.</string>
     <string name="app_revision_fmt">Versions Information: <xliff:g id="app_revision_url">%s</xliff:g></string>
-    <string name="importExportHelp">Daten werden aus LoyalityCardLocker.csv aus dem externen Speicher im-/exportiert.</string>
     <string name="importing">Importiere…</string>
     <string name="exporting">Exportiere…</string>
 </resources>

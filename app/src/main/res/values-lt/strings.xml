@@ -38,7 +38,6 @@
     <string name="importExport">Importuoti/Exportuoti</string>
     <string name="importName">Importuoti</string>
     <string name="exportName">Exportuoti</string>
-    <string name="importExportHelp">Duomenys importuoti į/eksportruoti iš LoyaltyCardLocker.csv išorinėje atmintyje</string>
     <string name="importedFrom">Importuota iš: %1$s</string>
     <string name="exportedTo">Eksportuota į: %1$s</string>
     <string name="fileMissing">Failas nerastas: %1$s</string>

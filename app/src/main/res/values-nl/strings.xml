@@ -32,7 +32,6 @@
     <string name="importExport">Importeer/Exporteer</string>
     <string name="importName">Importeer</string>
     <string name="exportName">Exporteer</string>
-    <string name="importExportHelp">Data is geïmporteerd van of geëxporteerd naar LoyaltyCardLocker.csv op externe opslag</string>
     <string name="importedFrom">Geïmporteerd van: %1$s</string>
     <string name="exportedTo">Geëxporteerd naar: %1$s</string>
     <string name="fileMissing">Bestand niet gevonden: %1$s</string>

@@ -38,7 +38,6 @@
     <string name="importExport">Import/Export</string>
     <string name="importName">Import</string>
     <string name="exportName">Export</string>
-    <string name="importExportHelp">Data jsou importována do/z LoyaltyCardLocker.csv na externí úložišti.</string>
     <string name="importedFrom">Importováno z: %1$s</string>
     <string name="exportedTo">Exportováno do: %1$s</string>
     <string name="fileMissing">Doubor chybí: %1$s</string>
