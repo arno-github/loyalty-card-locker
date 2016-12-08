@@ -60,4 +60,20 @@
 
     <string name="copy_to_clipboard_toast">Kortelės ID nukopijuota į iškarpinę</string>
 
+    <string name="importExportHelp">Fare il backup dei dati ti permette di spostare le tue tessere da un dispositivo ad un altro.</string>
+    <string name="importSuccessfulTitle">Importazione avvenuta con successo</string>
+    <string name="importFailedTitle">Importazione fallita</string>
+    <string name="exportSuccessfulTitle">Esportazione avvenuta con successo</string>
+    <string name="exportFailedTitle">Esportazione fallita</string>
+    <string name="exportOptionExplanation">I dati sono stati scritti nella cartella principale della memoria esterna.</string>
+    <string name="importOptionFilesystemTitle">Importa dal file system</string>
+    <string name="importOptionFilesystemExplanation">Scegli un file dal file system.</string>
+    <string name="importOptionFilesystemButton">Dal file system</string>
+    <string name="importOptionApplicationTitle">Importa dal file system</string>
+    <string name="importOptionApplicationExplanation">Usa un'applicazione esterna come Dropbox, Google Drive o il tuo file manager preferito per aprire il file.</string>
+    <string name="importOptionApplicationButton">Usa un'applicazione esterna</string>
+    <string name="importOptionFixedTitle">Importa da un altro posto</string>
+    <string name="importOptionFixedExplanation">Importa dallo stesso posto del file system dove si è esportato.</string>
+    <string name="importOptionFixedButton">Usa luogo dell'esportazione</string>
+    <string name="sendLabel">Invia&#8230;</string>
 </resources>
